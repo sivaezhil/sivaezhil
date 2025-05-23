@@ -28,7 +28,7 @@ Real-time price comparison web app that fetches live prices from e-commerce plat
 
 ## 📈 GitHub Stats
 
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivaezhi&show_icons=true&theme=radical)
+![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivaezhil&show_icons=true&theme=radical)
 
 ---
 
